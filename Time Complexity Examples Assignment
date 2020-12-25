@@ -1,0 +1,13 @@
+1] for(i=1;i<=n;i++)
+      for(j=i;j<=n;j++)
+         printf("HI");
+==> O(n²)
+
+2] for(i=1;i<=n;i*=3)
+      for(j=1;j<=n;j++)
+         printf("HI");
+==> ......
+
+{In question 2], I'm a bit confused.
+ Maybe, the answer would be 'log n'
+ I request the viewer to clear my doubt}
