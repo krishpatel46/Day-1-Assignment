@@ -1,0 +1,9 @@
+//js program to display 5 '*' in a horizontal line
+
+ans = '';
+for(i = 1; i < 6; i += 1) {
+  ans += '* '
+}
+console.log(ans)
+
+//output:- * * * * * 
